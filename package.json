@@ -1,14 +1,49 @@
 {
+	
 	"name": "fcc-learn-npm-package-json",
+	
+	"author": "esther bawo tsotso",
+	
 	"dependencies": {
-		"express": "^4.14.0"
+	
+		
+	"express": "^4.14.0"
+	
 	},
+	
 	"main": "server.js",
+	
 	"scripts": {
-		"start": "node server.js"
+	
+		
+	"start": "node server.js"
+	
 	},
+	
 	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	
+		
+	"type": "git",
+	
+		
+	"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	
+	},
+	
+	"version": "1.0.0",
+	
+	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
+	
+	"keywords": [],
+	
+	"license": "ISC",
+	
+	"bugs": {
+	
+		
+	"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	
+	},
+	
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
