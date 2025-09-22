@@ -1,7 +1,7 @@
 {
 	"author": "Esther Bawo Tsotso",
 	"description": "A Backend project to learn how to use npm package.json file",
-	"keywords": [ "descriptive", "Backend", "freeCodeCamp" ],
+	"keywords": [ "descriptive", "Backend", "freecodecamp" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
