@@ -1,6 +1,8 @@
 {
   "name": "fcc-learn-node-with-express",
   "version": "0.1.0",
+  "type": "module",
+  "description": "A boilerplate for the freeCodeCamp curriculum. Learn Node.js with Express",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
